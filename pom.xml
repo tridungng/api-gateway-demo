@@ -13,7 +13,9 @@
         <module>first-service</module>
         <module>second-service</module>
         <module>eureka-server</module>
-        <module>api-gateway-demo-bom</module>
+        <module>platform-bom</module>
+        <module>platform-app-starter-parent</module>
+        <module>platform-lib-starter-parent</module>
     </modules>
 
 </project>

@@ -8,9 +8,9 @@
 
     <parent>
         <groupId>org.bbyoda</groupId>
-        <artifactId>api-gateway-demo-bom</artifactId>
+        <artifactId>platform-app-starter-parent</artifactId>
         <version>0.0.1-SNAPSHOT</version>
-        <relativePath>../api-gateway-demo-bom</relativePath>
+        <relativePath/>
     </parent>
 
     <properties>
@@ -23,10 +23,10 @@
             <artifactId>spring-cloud-starter-netflix-eureka-server</artifactId>
         </dependency>
 
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-web</artifactId>
-        </dependency>
+<!--        <dependency>-->
+<!--            <groupId>org.springframework.boot</groupId>-->
+<!--            <artifactId>spring-boot-starter-web</artifactId>-->
+<!--        </dependency>-->
     </dependencies>
 
     <build>
