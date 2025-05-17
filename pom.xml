@@ -12,6 +12,8 @@
         <module>api-gateway</module>
         <module>first-service</module>
         <module>second-service</module>
+        <module>eureka-server</module>
+        <module>api-gateway-demo-bom</module>
     </modules>
 
 </project>
